@@ -1,2 +1,2 @@
 # Patika Java101 Projelerim
-## [Patika.dev](https://app.patika.dev/courses/java101/pratik-not-ortalamasi)
+## [Patika.dev](https://app.patika.dev/theguc/edit/projects)
